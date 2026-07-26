@@ -1,0 +1,12 @@
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        l,r,best=0,len(height)-1,0
+        while(l<r):
+            best=max(best,(r-l)*min(height[l],height[r]))
+            
+            if(height[l]<height[r]):
+                l+=1
+            else: #removed if and replaced with else and the executeion timeout disappear only one condition is checked not two ifs
+                r-=1
+        return best
+        
