@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
