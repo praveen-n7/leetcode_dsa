@@ -3,7 +3,7 @@ class Solution:
         count={} #freq counter
         L=max_freq=best=0
         for r,c in enumerate(s):
-            count[c] = count.get(c,0)+1
+            count[c] = count.get(c,0)+1 #value is a freq counter
             max_freq=max(max_freq,count[c])
             while(r-L+1-max_freq>k):#check window is valid or not and adjust accordingly
                # count[L]-=1 mistake,L is an index and for count we need char as key to get the value,so L gets the char at that index from a that  string 
