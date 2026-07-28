@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/praveen-n7/leetcode_dsa/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
@@ -32,6 +33,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/praveen-n7/leetcode_dsa/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
