@@ -12,4 +12,7 @@ class Solution:
             R*=nums[i]
         return ans
         #tricky problem 
+        #remember the purpose of 1st pass and the second pass
+        #1st pass is for the skipping the current index value to be considered in the product 
+        #2nd pass is accumulation of product of continous subarray and then multiplying it with tye 1st pass value in this the current index value is skpipeed:)
         
