@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
