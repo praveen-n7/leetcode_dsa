@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveen-n7/leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveen-n7/leetcode_dsa/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
