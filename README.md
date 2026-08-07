@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-n7/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
