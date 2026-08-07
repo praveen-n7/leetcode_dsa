@@ -10,4 +10,5 @@ class Solution:
                 best=max(best,h*(i-left-1)) #update max 
             stack.append(i)# pushing of unresolved elements if above condition doesnt satisfy
         return best 
+        #understand how index are managed and how logic is applied to retrieve the value of other stack using value of ither stack as an index 
         
