@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveen-n7/leetcode_dsa/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
