@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/praveen-n7/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0978-longest-turbulent-subarray) |
+| [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/praveen-n7/leetcode_dsa/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
