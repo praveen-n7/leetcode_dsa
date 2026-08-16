@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-n7/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/praveen-n7/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/praveen-n7/leetcode_dsa/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
