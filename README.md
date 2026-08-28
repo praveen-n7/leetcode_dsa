@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/praveen-n7/leetcode_dsa/tree/master/0066-plus-one) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-n7/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/praveen-n7/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0169-majority-element) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
