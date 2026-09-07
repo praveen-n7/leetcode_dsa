@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/praveen-n7/leetcode_dsa/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-n7/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/praveen-n7/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/praveen-n7/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
 | ------- |
