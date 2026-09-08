@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/praveen-n7/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/praveen-n7/leetcode_dsa/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
