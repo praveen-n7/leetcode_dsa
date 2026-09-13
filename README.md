@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/praveen-n7/leetcode_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/praveen-n7/leetcode_dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
