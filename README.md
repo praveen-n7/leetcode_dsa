@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/praveen-n7/leetcode_dsa/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-n7/leetcode_dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/praveen-n7/leetcode_dsa/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Linked List
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/praveen-n7/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
