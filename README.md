@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/praveen-n7/leetcode_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/praveen-n7/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1854-maximum-population-year](https://github.com/praveen-n7/leetcode_dsa/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
