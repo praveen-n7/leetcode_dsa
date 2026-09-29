@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/praveen-n7/leetcode_dsa/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-n7/leetcode_dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -341,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
