@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0704-binary-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
