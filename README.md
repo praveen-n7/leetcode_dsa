@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/praveen-n7/leetcode_dsa/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
+| [2321-maximum-score-of-spliced-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/2321-maximum-score-of-spliced-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-n7/leetcode_dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0978-longest-turbulent-subarray) |
+| [2321-maximum-score-of-spliced-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/2321-maximum-score-of-spliced-array) |
 ## Stack
 |  |
 | ------- |
