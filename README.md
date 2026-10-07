@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/praveen-n7/leetcode_dsa/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/praveen-n7/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/praveen-n7/leetcode_dsa/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0978-longest-turbulent-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0978-longest-turbulent-subarray) |
+| [1652-defuse-the-bomb](https://github.com/praveen-n7/leetcode_dsa/tree/master/1652-defuse-the-bomb) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/praveen-n7/leetcode_dsa/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
