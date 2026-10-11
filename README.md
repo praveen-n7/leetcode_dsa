@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/praveen-n7/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0217-contains-duplicate) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-n7/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/praveen-n7/leetcode_dsa/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/praveen-n7/leetcode_dsa/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/praveen-n7/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
 ## Quickselect
@@ -371,4 +375,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
