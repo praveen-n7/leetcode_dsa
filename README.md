@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Divide and Conquer
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Simulation
 |  |
