@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0118-pascals-triangle) |
+| [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/praveen-n7/leetcode_dsa/tree/master/1014-best-sightseeing-pair) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/praveen-n7/leetcode_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
