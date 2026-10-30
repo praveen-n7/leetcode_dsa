@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveen-n7/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
