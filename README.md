@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-n7/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/praveen-n7/leetcode_dsa/tree/master/0133-clone-graph) |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -457,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/praveen-n7/leetcode_dsa/tree/master/0133-clone-graph) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
