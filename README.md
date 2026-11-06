@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/praveen-n7/leetcode_dsa/tree/master/0661-image-smoother) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 ## Prefix Sum
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/praveen-n7/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/praveen-n7/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/praveen-n7/leetcode_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
+| [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Heap (Priority Queue)
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
