@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praveen-n7/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/praveen-n7/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praveen-n7/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/praveen-n7/leetcode_dsa/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/praveen-n7/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/praveen-n7/leetcode_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/praveen-n7/leetcode_dsa/tree/master/0205-isomorphic-strings) |
