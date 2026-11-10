@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/praveen-n7/leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0978-longest-turbulent-subarray) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/praveen-n7/leetcode_dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -500,4 +504,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
