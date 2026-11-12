@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/praveen-n7/leetcode_dsa/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/praveen-n7/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1854-maximum-population-year](https://github.com/praveen-n7/leetcode_dsa/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/praveen-n7/leetcode_dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Heap (Priority Queue)
 |  |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quicksort
