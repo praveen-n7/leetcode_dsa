@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/praveen-n7/leetcode_dsa/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/praveen-n7/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/praveen-n7/leetcode_dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
 ## Sorting
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/praveen-n7/leetcode_dsa/tree/master/0336-palindrome-pairs) |
+| [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 ## Z Algorithm
 |  |
 | ------- |
