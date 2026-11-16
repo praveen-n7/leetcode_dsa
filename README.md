@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/praveen-n7/leetcode_dsa/tree/master/1652-defuse-the-bomb) |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/praveen-n7/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1854-maximum-population-year](https://github.com/praveen-n7/leetcode_dsa/tree/master/1854-maximum-population-year) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/praveen-n7/leetcode_dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/praveen-n7/leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/praveen-n7/leetcode_dsa/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 ## Trie
 |  |
 | ------- |
@@ -540,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
