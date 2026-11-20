@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/praveen-n7/leetcode_dsa/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0275-h-index-ii) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praveen-n7/leetcode_dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-n7/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -505,11 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 ## Graph Theory
 |  |
@@ -543,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -551,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/praveen-n7/leetcode_dsa/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
