@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/praveen-n7/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/praveen-n7/leetcode_dsa/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/praveen-n7/leetcode_dsa/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/praveen-n7/leetcode_dsa/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/praveen-n7/leetcode_dsa/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/praveen-n7/leetcode_dsa/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/praveen-n7/leetcode_dsa/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/praveen-n7/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
