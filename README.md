@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/praveen-n7/leetcode_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1014-best-sightseeing-pair](https://github.com/praveen-n7/leetcode_dsa/tree/master/1014-best-sightseeing-pair) |
 | [1046-last-stone-weight](https://github.com/praveen-n7/leetcode_dsa/tree/master/1046-last-stone-weight) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/praveen-n7/leetcode_dsa/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/praveen-n7/leetcode_dsa/tree/master/1652-defuse-the-bomb) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/praveen-n7/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0705-design-hashset](https://github.com/praveen-n7/leetcode_dsa/tree/master/0705-design-hashset) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/praveen-n7/leetcode_dsa/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/praveen-n7/leetcode_dsa/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Sliding Window
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/praveen-n7/leetcode_dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/praveen-n7/leetcode_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/praveen-n7/leetcode_dsa/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/praveen-n7/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/praveen-n7/leetcode_dsa/tree/master/0661-image-smoother) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/praveen-n7/leetcode_dsa/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/praveen-n7/leetcode_dsa/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Union-Find
 |  |
