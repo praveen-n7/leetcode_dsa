@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praveen-n7/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/praveen-n7/leetcode_dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0088-merge-sorted-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/praveen-n7/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/praveen-n7/leetcode_dsa/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/praveen-n7/leetcode_dsa/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/praveen-n7/leetcode_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/praveen-n7/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/praveen-n7/leetcode_dsa/tree/master/0205-isomorphic-strings) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveen-n7/leetcode_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/praveen-n7/leetcode_dsa/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/praveen-n7/leetcode_dsa/tree/master/0661-image-smoother) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/praveen-n7/leetcode_dsa/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/praveen-n7/leetcode_dsa/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/praveen-n7/leetcode_dsa/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
