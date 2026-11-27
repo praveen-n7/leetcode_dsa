@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/praveen-n7/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/praveen-n7/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/praveen-n7/leetcode_dsa/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/praveen-n7/leetcode_dsa/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-n7/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/praveen-n7/leetcode_dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/praveen-n7/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveen-n7/leetcode_dsa/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-n7/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/praveen-n7/leetcode_dsa/tree/master/0389-find-the-difference) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/praveen-n7/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/praveen-n7/leetcode_dsa/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/praveen-n7/leetcode_dsa/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/praveen-n7/leetcode_dsa/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/praveen-n7/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/praveen-n7/leetcode_dsa/tree/master/0502-ipo) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveen-n7/leetcode_dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/praveen-n7/leetcode_dsa/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/praveen-n7/leetcode_dsa/tree/master/1670-design-front-middle-back-queue) |
